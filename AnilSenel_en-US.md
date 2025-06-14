@@ -9,7 +9,10 @@
 
 ## PROFESSIONAL SUMMARY
 
-Experienced Senior Software Engineer with over 5 years of expertise in developing and maintaining enterprise-level applications serving millions of users. Specialized in .NET Core, microservices architecture, cloud technologies, and database management. Proficient in Domain-Driven Design, CQRS patterns, and event-driven programming. Demonstrated track record of successfully implementing scalable solutions across multiple industries including consumer goods, energy, and pharmaceutical sectors.
+I am a Senior Software Engineer with over 6 years of experience in developing and maintaining enterprise-level applications that serve millions of users. I specialize in .NET Core, microservices architecture, cloud technologies, and database management. My expertise includes applying Domain-Driven Design, CQRS patterns, and event-driven programming to build scalable and maintainable systems. I’ve successfully delivered high-impact solutions across diverse industries, including consumer goods, energy, and pharmaceuticals.
+
+
+I have a congenital visual impairment that affects my vision under certain conditions. Specifically, in bright outdoor environments (e.g., under direct sunlight), my vision decreases without sunglasses. I also experience difficulty reading very small printed text and distinguishing some colors. However, this does not significantly impact my ability to work. In digital environments, I comfortably continue coding by enlarging text when needed and using dark themes to reduce screen glare. I hold an official disability report indicating a 70% disability, though I am not classified as severely disabled.
 
 
 ## EDUCATION
